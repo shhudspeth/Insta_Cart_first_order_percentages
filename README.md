@@ -1,4 +1,4 @@
-This is the directory where your source code would reside.
+
 
 ############################# Notes on My Code ##############################
 
@@ -11,16 +11,14 @@ code.
 and not take so long?
 --> Could I add a feature where there were update options? I feel like this code is
 pretty static and I see where it needs to be more flexible, but I don't have
-the coding chomps for that yet.
-
-I don't have any fancy "main" functions with __initi__. I'm a pretty solid
-pandas person, so no pandas is a sad day for me.
+the coding chomps for that yet. I'm a pretty solid pandas person, so no
+pandas is a sad day for me.That said, I learn quickly!
 
 I also am not strong on unit-testing. I tested my code A LOT using print
 functions: doubling check type, and length of things. And then deleted it as
 it was clutter.
 
-I have a few "try" and "excepts", but overall,
+I used a few "try" and "excepts", but overall,
 I know have ways to do to build in asserts/assertions and I am interested
 in learning more about how to do that. I think it's counter-intuitive for me
 to create desired output when I have data to organize. I take a discovery
