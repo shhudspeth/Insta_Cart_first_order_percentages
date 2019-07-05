@@ -42,8 +42,8 @@ Sarah
 The goal of this challenge was to do create a csv.file of product orders
 (found in input folders and off of “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on July 3, 2019 )
 delineated the data into first time orders and total orders
-organized by department id. The challenge of the problem lay in scaling
-large dataset.
+organized by department id. The challenge of the problem laid in scaling
+larger datasets.
 
 ##Installation
 Created and tested using Python3. Imports include csv, sys.
