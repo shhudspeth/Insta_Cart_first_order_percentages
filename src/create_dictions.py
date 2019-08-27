@@ -2,24 +2,20 @@
 import csv
 
 
-def merge_dict(d1, d2):
-    combined = d1.copy()
-    combined.update(d2)
-    return combined
-
-
 def product_count(info):
     # initializes a dictionary
     d = {}
 
-    # sets up some initial count values
-    prod_count = 0
-    reorder_count = 0
+    
 
     # makes a dictionary that has a product_id as the key,
     # counts how many times that product has been order and
     # records the number of times it was a first order_id
     for ord, prod, add_o, re_or in info:
+        # sets up some initial count values
+        prod_count = 0
+        reorder_count = 0
+        
         if int(re_or) == 0:
             add_count = 1
         else:
